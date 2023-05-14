@@ -1,5 +1,5 @@
 import sys
-import logging
+from src.logger import logging
 
 # convert a basic terminal exception to better read exception message. 
 # Exception Handling in Python
